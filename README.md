@@ -5,3 +5,4 @@ Tu préfère Être anonyme avec les llm ou avoir un gps et des données avec des
 - tu veux faire un metier, sans des donnees janvier,fevrier, 2025, 
 - metier, le pays/ des pays,mon pays
 - ou peut etre seulement un model , entrainer un model llm sans gps, sans les donnees de janvier fevrier
+- moussaillon dun pays , un metier , medsage sur tv/radio
