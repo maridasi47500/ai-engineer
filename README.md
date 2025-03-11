@@ -1,4 +1,4 @@
-## Examples and exercises from the book "Python for Network Engineers"
+## Examples and exercises from the book "Python for AI Engineers"
 - do 
 ````
 sh mysite.sh
@@ -7,9 +7,7 @@ sh mysite.sh
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 
 All examples and exercises have been tested in Python 3.7 and 3.8.
-
-> The assignments will be useful even if you are reading another Python book.
-> All tasks are focused on network topics.
+> All tasks are focused on AI  topics.
 
 ## Links
 
@@ -20,17 +18,7 @@ All examples and exercises have been tested in Python 3.7 and 3.8.
 
 > [Git/Github basics](https://pyneng.readthedocs.io/en/latest/book/02_git_github/index.html)
 
-### Creating a repository on GitHub
 
-To create your own repository based on a template, you need:
-
--  open [tasks repo](https://github.com/natenka/pyneng-examples-exercises-en)
--  above the file list, click Use this template
--  type a name for your repository
--  click Create repository from template
--  now you have a new repository with the same directory structure and files as pyneng-examples-exercises-en
-
-![](https://raw.githubusercontent.com/natenka/PyNEng/master/images/git/github_use_template.png)
 
 ### Clone repository
 
@@ -38,7 +26,7 @@ To work locally with the repository, you need to clone it.
 To do this, use the git clone command:
 
 ```
-$ git clone git@github.com:natenka/my_tasks.git
+$ git clone git@github.com:anonyme/my_tasks.git
 Cloning into 'my_tasks'...
 remote: Counting objects: 241, done.
 remote: Compressing objects: 100% (191/191), done.
