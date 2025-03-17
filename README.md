@@ -3,7 +3,37 @@
 ````
 sh mysite.sh
 ````
+- tu dois faire un truc qui s'appelle answers / examples: 
+````
+..
+04_data_structures
+Hey
+7 months ago
+05_basic_scripts
+Hey
+7 months ago
+06_control_structures
+Hey
+7 months ago
+07_files
+````
 
+- do
+````
+
+task_4_1.py
+Hey
+7 months ago
+task_4_2.py
+Hey
+7 months ago
+
+````
+
+- do 
+````
+python3 Task
+````
 - gem pour quel langage informatique
 
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
